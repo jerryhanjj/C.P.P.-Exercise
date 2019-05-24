@@ -1,5 +1,5 @@
 // Chapter 2, question 7
-// ex07.cpp -- time
+// ex07.cpp -- Time
 #include <iostream>
 using namespace std;
 
